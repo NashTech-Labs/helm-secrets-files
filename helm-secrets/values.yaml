@@ -1,0 +1,4 @@
+secrets:
+  files:
+  - name: database-sec
+    path: tmp/secrets/database.env
